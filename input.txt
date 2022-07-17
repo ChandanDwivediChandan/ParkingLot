@@ -1,0 +1,15 @@
+create 6
+park KA­01­HH­1234 23
+park KA­01­HH­9999 32
+park KA­01­BB­0001 24
+park KA­01­HH­7777 55
+park KA­01­HH­2701 45
+park KA­01­HH­3141 45
+leave 4
+status
+park KA­01­P­333 44
+park DL­12­AA­9999 32
+reg_num_acc_to_age 44
+slot_num_acc_to_age 32
+slot_num_acc_to_reg_num KA­01­HH­3141
+slot_num_acc_to_reg_num MH­04­AY­1111
